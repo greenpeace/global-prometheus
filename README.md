@@ -12,7 +12,7 @@ Successor to Aurora, Prometheus is meant to simplify tracking of visits, success
 - Google OAuth Sign-in
 
 ###DB Structure
-*the tables and values stored here all imply uid's*<br>
+*The tables and values stored here all imply uid's*<br>
 - users
   - username
   - nro
