@@ -3,10 +3,10 @@
 Successor to Aurora, Prometheus is meant to simplify tracking of visits, successful petitions and opened emails into a single simple platform. This is meant to take away the complexities (behind the scenes) of Aurora make it easier to use / more reliable to maintain.
 
 ###Functions of Aurora:
--Successful petition tracking
--Page visit tracking
--Email opened tracking
--Campaign / Project / NRO / Regional differentiation
+- Successful petition tracking
+- Page visit tracking
+- Email opened tracking
+- Campaign / Project / NRO / Regional differentiation
 
 ###Enhancements for Prometheus
-Google OAuth Sign-in
+- Google OAuth Sign-in
