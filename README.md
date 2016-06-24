@@ -17,7 +17,7 @@ Successor to Aurora, Prometheus is meant to simplify tracking of visits, success
   - Epress
   - ioredis
 - Redis
-- 
+
 ###DB Structure
 *The tables and values stored here all imply uid's*<br>
 - users
