@@ -14,7 +14,7 @@ Successor to Aurora, Prometheus is meant to simplify tracking of visits, success
 ###Technology
 - NGINX
 - Node.js
-  - Epress
+  - Express
   - ioredis
 - Redis
 
