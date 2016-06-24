@@ -1,5 +1,5 @@
 # Prometheus
-*"god of forethought, the god of intelligence, a trickster, and as a champion of humanity"*<br>
+*"god of forethought, the god of intelligence, a trickster, and as a champion of humanity"*<br><br>
 Successor to Aurora, Prometheus is meant to simplify tracking of visits, successful petitions and opened emails into a single simple platform. This is meant to take away the complexities (behind the scenes) of Aurora make it easier to use / more reliable to maintain.
 
 ###Functions of Aurora:
